@@ -1,0 +1,133 @@
+header .header-main{
+    background-color: var(--primary-green);
+    height: 60px;
+    color: white;
+    padding: 0px 30px;
+}
+
+.amazon-logo{
+    width: 120px;
+    height: 40px;
+}
+
+.header-delivery-options span:nth-child(1){
+    color: #ccc;
+    font-size: 14px;
+}
+
+
+.header-delivery-options span:nth-child(2){
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.header-delivery-options div{
+    line-height: 15px;
+}
+
+.header-delivery-options svg{
+    font-size: 22px;
+}
+
+.search-amazon-input{
+    height: 40px;
+    padding: 7px 10px 10px 0px;
+    width: 100%;
+    text-indent: 125px;
+    color: black;
+    outline: none;
+
+}
+
+.search-amazon-input::placeholder{
+    color: rgb(17, 17, 17, .7);
+}
+
+.header-search-div{
+    position: relative;
+    width: 60%;
+}
+
+.select-search{
+    position: absolute;
+    left: 0px;
+    width: 120px;
+    height: 40px;
+    background-color: #E6E6E6;
+    font-weight: 300;
+    font-size: 13px;
+    text-indent: 5px;
+}
+
+.search-btn-div{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 45px;
+    height: 40px;
+}
+
+.search-btn{
+    width: 100%;
+    height: 100%;
+
+    background-color: #FFDFD7;
+    color: black;
+    font-size: 30px;
+    
+}
+
+.header-language-options svg{
+    font-size: 15px;
+    margin-top: auto;
+}
+
+.header-language-options{
+    height:fit-content;
+}
+
+.header-account-options{
+    display: flex;
+    flex-direction: column;
+    width: 140px;
+    line-height: 15px;
+}
+
+.header-account-options p{
+    font-size: 12px;
+}
+
+.header-account-options-helper p{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.header-account-options-helper svg{
+    font-size: 16px;
+}
+
+.header-returns-options{
+    width: 100px;
+    line-height: 15px;
+}
+
+.header-returns-options p:nth-child(1){
+    font-size: 12px;
+}
+
+.header-returns-options p:nth-child(2){
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.header-cart{
+    height: 35px;
+}
+
+.header-cart svg{
+    font-size: 30px;
+}
+
+.header-cart span{
+}
