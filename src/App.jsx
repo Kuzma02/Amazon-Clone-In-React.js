@@ -1,11 +1,13 @@
-import DesktopHeader from "./components/DesktopHeader";
-import TabletHeader from "./components/TabletHeader";
+import { Banner, DesktopHeader, TabletHeader } from "./components";
 
 function App() {
   return (
     <>
       <DesktopHeader />
       <TabletHeader />
+      <main className="container-main-content">
+        <Banner />
+      </main>
     </>
   );
 }

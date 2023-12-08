@@ -20,6 +20,11 @@ body{
     font-family: 'PT Sans', sans-serif;
 }
 
+.container-main-content{
+    max-width: 1500px;
+    margin: auto;
+}
+
 @media (max-width: 1110px) { 
     #desktop-header{
      display:none;
