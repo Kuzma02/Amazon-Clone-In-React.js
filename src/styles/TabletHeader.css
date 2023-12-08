@@ -14,3 +14,51 @@
     width: 80px;
     height: 25px;
 }
+
+.header-tablet-search-div{
+    position: relative;
+    width: 95%;
+
+
+    margin: auto;
+}
+
+.header-tablet-bottom{
+    background-color: var(--primary-green);
+    height: 50px;
+}
+
+.search-tablet-amazon-input{
+    height: 40px;
+    padding: 7px 10px 10px 0px;
+    width: 100%;
+    text-indent: 10px;
+    color: black;
+    outline: none;
+    border-radius: 10px;
+
+}
+
+.search-tablet-amazon-input::placeholder{
+    color: rgb(17, 17, 17, .7);
+}
+
+.search-tablet-btn-div{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 45px;
+    height: 40px;
+}
+
+.search-tablet-btn{
+    width: 100%;
+    height: 100%;
+
+    background-color: #FFDFD7;
+    color: black;
+    font-size: 30px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
