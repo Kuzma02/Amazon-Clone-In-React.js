@@ -1,13 +1,13 @@
-import Header from "./components/Header"
-
+import DesktopHeader from "./components/DesktopHeader";
+import TabletHeader from "./components/TabletHeader";
 
 function App() {
-
   return (
     <>
-      <Header />
+      <DesktopHeader />
+      <TabletHeader />
     </>
-  )
+  );
 }
 
-export default App
+export default App;

@@ -108,7 +108,7 @@ header .header-main{
 }
 
 .header-returns-options{
-    width: 100px;
+    width: 70px;
     line-height: 15px;
 }
 
@@ -129,5 +129,46 @@ header .header-main{
     font-size: 30px;
 }
 
-.header-cart span{
+.header-nav{
+    background-color: #195851;
+    height: 39px;
+    color: white;
+}
+
+.header-nav ul{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    gap: 0px 20px;
+    font-size: 15px;
+}
+
+.header-nav-hamburger svg{
+    font-size: 20px;
+    margin-bottom: 3px;
+}
+
+
+@media(max-width: 1700px){
+    .header-search-div{
+        width: 45%;
+    }
+}
+
+@media(max-width: 1330px){
+    .select-search{
+        width: 100px;
+    }
+
+    .header-search-div{
+        width: 35%;
+    }
+
+    .search-amazon-input{
+        text-indent: 105px;
+    }
+
+    header .header-main{
+        padding: 0px 10px;
+    }
 }

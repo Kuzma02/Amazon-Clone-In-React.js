@@ -19,3 +19,12 @@ body{
 
     font-family: 'PT Sans', sans-serif;
 }
+
+@media (max-width: 1110px) { 
+    #desktop-header{
+     display:none;
+    }
+    #tablet-header{
+     display:initial;
+    }
+  }

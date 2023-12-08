@@ -1,0 +1,16 @@
+#tablet-header{
+    display: none;
+    height: 100px;
+
+}
+
+#tablet-header .header-tablet-main{
+    padding: 0px 10px;
+    background-color: var(--primary-green);
+    height: 50px;
+}
+
+.amazon-tablet-logo{
+    width: 80px;
+    height: 25px;
+}
