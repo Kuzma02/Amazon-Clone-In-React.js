@@ -1,0 +1,29 @@
+.more-products-box-main{
+    width: 350px;
+    height: 400px;
+    z-index: 1;
+    transform: translate(0, -70%);
+    padding: 0px 20px;
+    background-color: white;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 20px; 
+}
+
+.more-products-box-images{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.more-products-box-images img{
+    width: 150px;
+}
+
+.more-products-box-main a{
+    text-decoration: none;
+    color: #007185;
+    font-size: 13px;
+}

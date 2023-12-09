@@ -1,0 +1,24 @@
+.boxes-container-main{
+    padding: 0px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 20px;
+}
+
+@media(max-width: 1089px){
+    .boxes-container-main{
+        justify-content: center;
+        gap: 20px;
+    }
+}
+
+@media(max-width: 759px){
+    .boxes-container-main{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+        overflow-x: scroll;
+        z-index: 10;
+        position: relative;
+    }
+}

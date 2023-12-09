@@ -1,4 +1,4 @@
-import { Banner, DesktopHeader, TabletHeader } from "./components";
+import { Banner, BoxesContainer, DesktopHeader, TabletHeader } from "./components";
 
 function App() {
   return (
@@ -6,7 +6,10 @@ function App() {
       <DesktopHeader />
       <TabletHeader />
       <main className="container-main-content">
+
         <Banner />
+        <BoxesContainer />
+
       </main>
     </>
   );

@@ -1,9 +1,15 @@
-import React from 'react'
+import React from "react";
+import "../styles/ProductBox.css";
 
-const ProductBox = () => {
+
+const ProductBox = ({ content }) => {
   return (
-    <div>ProductBox</div>
-  )
-}
+    <div className="product-box-main">
+      <h2 className="text-2xl font-bold">{ content.boxTitle }</h2>
+      <img src={`../src/assets/images/${content.image}`} alt="" />
+      <a href="#">Shop now</a>
+    </div>
+  );
+};
 
-export default ProductBox
+export default ProductBox;
