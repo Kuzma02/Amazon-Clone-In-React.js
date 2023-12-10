@@ -6,10 +6,8 @@ function App() {
       <DesktopHeader />
       <TabletHeader />
       <main className="container-main-content">
-
         <Banner />
         <BoxesContainer />
-
       </main>
     </>
   );

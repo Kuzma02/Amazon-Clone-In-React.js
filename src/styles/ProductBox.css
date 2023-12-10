@@ -2,7 +2,6 @@
     width: 350px;
     height: 400px;
     z-index: 1;
-    transform: translate(0, -70%);
     padding: 0px 20px;
     background-color: white;
     
@@ -16,4 +15,28 @@
     text-decoration: none;
     color: #007185;
     font-size: 13px;
+}
+
+@media(max-width: 759px){
+    .product-box-main{
+        display: flex;
+        flex-direction: column;
+        row-gap: 8px;
+        height: 320px;
+        width: 250px;
+        padding: 0px 5px;
+    }
+}
+
+@media(max-width: 680px){
+    .product-box-main{
+        width: 400px;
+    }
+}
+
+@media(max-width: 430px){
+    .product-box-main{
+        height: 250px;
+        width: 250px;
+    }
 }

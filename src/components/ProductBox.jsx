@@ -5,7 +5,7 @@ import "../styles/ProductBox.css";
 const ProductBox = ({ content }) => {
   return (
     <div className="product-box-main">
-      <h2 className="text-2xl font-bold">{ content.boxTitle }</h2>
+      <h2 className="text-2xl font-bold max-sm:text-lg">{ content.boxTitle }</h2>
       <img src={`../src/assets/images/${content.image}`} alt="" />
       <a href="#">Shop now</a>
     </div>
