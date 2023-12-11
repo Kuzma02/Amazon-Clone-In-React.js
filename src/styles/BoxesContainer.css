@@ -1,23 +1,17 @@
 .boxes-container-main{
     padding: 0px 20px;
+    margin-top: 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     row-gap: 20px;
-    transform: translate(0, -30%);
 }
 
-@media(max-width: 1439px){
-    .boxes-container-main{
-    transform: translate(0, -15%);
-    }
-}
 
 @media(max-width: 1089px){
     .boxes-container-main{
         justify-content: center;
         gap: 20px;
-        transform: translate(0, -10%);
     }
 }
 
@@ -40,7 +34,6 @@
         position: relative;
         overflow: scroll;
         padding: 20px;
-        transform: translate(0, -50%);
         height: fit-content;
       }
 

@@ -1,4 +1,11 @@
-import { Banner, BoxesContainer, DesktopHeader, TabletHeader } from "./components";
+import {
+  Banner,
+  BoxesContainer,
+  DesktopHeader,
+  TabletHeader,
+} from "./components";
+
+import SliderContainer from "./components/SliderContainer";
 
 function App() {
   return (
@@ -8,6 +15,7 @@ function App() {
       <main className="container-main-content">
         <Banner />
         <BoxesContainer />
+        <SliderContainer />
       </main>
     </>
   );

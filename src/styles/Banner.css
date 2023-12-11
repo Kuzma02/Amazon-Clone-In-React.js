@@ -5,3 +5,33 @@
     background-repeat: no-repeat;
     height: 600px;
 }
+
+@media(max-width: 1440px){
+    .banner-main{
+        height: 500px;
+    }
+}
+
+@media(max-width: 1090px){
+    .banner-main{
+        height: 400px;
+    }
+}
+
+@media(max-width: 700px){
+    .banner-main{
+        height: 350px;
+    }
+}
+
+@media(max-width: 500px){
+    .banner-main{
+        height: 300px;
+    }
+}
+
+@media(max-width: 400px){
+    .banner-main{
+        height: 250px;
+    }
+}
