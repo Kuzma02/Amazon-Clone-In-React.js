@@ -2,10 +2,11 @@ import React from 'react'
 import Slider from 'react-slick';
 import "./slick.css"; 
 import "./slick-theme.css";
-import data from "../../../mock.json";
-import SliderCard from '../MovieCard/SliderCard';
 
-const SimpleSlider = () => {
+import SliderCard from '../MovieCard/SliderCard';
+import { nanoid } from 'nanoid';
+
+const SimpleSlider = ({ data }) => {
     const settings = {
         dots: true,
         infinite: true,
@@ -44,7 +45,7 @@ const SimpleSlider = () => {
         <div>
           <Slider {...settings} >
             { data.map((movie) => {
-              return <SliderCard key={movie.id} movie={movie} />
+              return <SliderCard key={nanoid()} movie={movie} />
             }) }
           </Slider>
         </div>

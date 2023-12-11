@@ -5,6 +5,8 @@ import {
   TabletHeader,
 } from "./components";
 
+import data from "../mock.json";
+
 import SliderContainer from "./components/SliderContainer";
 
 function App() {
@@ -15,7 +17,8 @@ function App() {
       <main className="container-main-content">
         <Banner />
         <BoxesContainer />
-        <SliderContainer />
+        <SliderContainer title="Most wished for in Movies & TV" data={data[0]} />
+        <SliderContainer title="Top Sellers in Baby Products for you" data={data[1]} />
       </main>
     </>
   );

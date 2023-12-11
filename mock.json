@@ -1,83 +1,139 @@
 [
-  {
-    "id": "985939",
-    "image": "src/assets/images/ProductsSlider Image 1.jpg"
-  },
-  {
-    "id": "532639",
-    "image": "src/assets/images/ProductsSlider Image 2.jpg"
-
-  },
-  {
-    "id": "760741",
-    "image": "src/assets/images/ProductsSlider Image 3.jpg"  },
-  {
-    "id": "760161",
-    "image": "src/assets/images/ProductsSlider Image 4.jpg"  },
-  {
-    "id": "629176",
-    "image": "src/assets/images/ProductsSlider Image 5.jpg"  },
-  {
-    "id": "579974",
-    "image": "src/assets/images/ProductsSlider Image 6.jpg"  },
-  {
-    "id": "810693",
-    "image": "src/assets/images/ProductsSlider Image 7.jpg"  },
-  {
-    "id": "616037",
-    "image": "src/assets/images/ProductsSlider Image 8.jpg"  },
-  {
-    "id": "610150",
-    "image": "src/assets/images/ProductsSlider Image 9.jpg"  },
-  {
-    "id": "539681",
-    "image": "src/assets/images/ProductsSlider Image 10.jpg"  },
-  {
-    "id": "960700",
-    "image": "src/assets/images/ProductsSlider Image 11.jpg"  },
-  {
-    "id": "766507",
-    "image": "src/assets/images/ProductsSlider Image 12.jpg"  },
-  {
-    "id": "921360",
-    "image": "src/assets/images/ProductsSlider Image 13.jpg"  },
-  {
-    "id": "781099",
-    "image": "src/assets/images/ProductsSlider Image 14.jpg"  },
-  {
-    "id": "361743",
-    "image": "src/assets/images/ProductsSlider Image 15.jpg"  },
-  {
-    "id": "507086",
-    "image": "src/assets/images/ProductsSlider Image 16.jpg"  },
-  {
-    "id": "19995",
-    "image": "src/assets/images/ProductsSlider Image 17.jpg"  },
-  {
-    "id": "773867",
-    "image": "src/assets/images/ProductsSlider Image 18.jpg"  },
-  {
-    "id": "773975",
-    "image": "src/assets/images/ProductsSlider Image 19.jpg"  },
-  {
-    "id": "1015602",
-    "image": "src/assets/images/ProductsSlider Image 20.jpg"  
-  },
-  {
-    "id": "10156012",
-    "image": "src/assets/images/ProductsSlider Image 21.jpg"  
-  },
-  {
-    "id": "10151012",
-    "image": "src/assets/images/ProductsSlider Image 22.jpg"  
-  },
-  {
-    "id": "10111012",
-    "image": "src/assets/images/ProductsSlider Image 23.jpg"  
-  },
-  {
-    "id": "11151012",
-    "image": "src/assets/images/ProductsSlider Image 24.jpg"  
-  }
-
+  [
+    {
+      "image": "src/assets/images/ProductsSlider Image 1.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 2.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 3.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 4.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 5.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 6.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 7.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 8.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 9.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 10.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 11.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 12.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 13.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 14.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 15.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 16.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 17.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 18.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 19.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 20.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 21.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 22.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 23.jpg"
+    },
+    {
+      "image": "src/assets/images/ProductsSlider Image 24.jpg"
+    }
+  ],
+  [
+    {
+      "image": "src/assets/images/baby carousel 1.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 2.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 3.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 4.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 5.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 6.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 7.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 8.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 9.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 10.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 11.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 12.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 13.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 14.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 15.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 16.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 17.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 18.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 19.jpg"
+    },
+    {
+      "image": "src/assets/images/baby carousel 20.jpg"
+    }
+    
+  ]
 ]
