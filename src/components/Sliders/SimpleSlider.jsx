@@ -3,7 +3,7 @@ import Slider from 'react-slick';
 import "./slick.css"; 
 import "./slick-theme.css";
 
-import SliderCard from '../MovieCard/SliderCard';
+import SimpleSliderCard from '../SimpleSliderCard';
 import { nanoid } from 'nanoid';
 
 const SimpleSlider = ({ data }) => {
@@ -44,8 +44,8 @@ const SimpleSlider = ({ data }) => {
       return (
         <div>
           <Slider {...settings} >
-            { data.map((movie) => {
-              return <SliderCard key={nanoid()} movie={movie} />
+            { data.map((item) => {
+              return <SimpleSliderCard key={nanoid()} sliderElement={item} />
             }) }
           </Slider>
         </div>

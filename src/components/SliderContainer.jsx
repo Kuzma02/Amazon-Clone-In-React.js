@@ -1,12 +1,14 @@
 import React from "react";
-import SimpleSlider from "./SimpleSlider/SimpleSlider";
+import SimpleSlider from "./Sliders/SimpleSlider";
+import ProductSlider from "./Sliders/ProductSlider";
 import "../styles/SliderContainer.css";
 
-const SliderContainer = ({ title, data }) => {
+const SliderContainer = ({ sliderType, title, data }) => {
   return (
-    <div className="slider-main-container">
+    <div className={sliderType === "SimpleSlider" ? "slider-main-container" : "slider-main-container product-slider-addon"}>
         <h2 className="font-bold text-2xl mb-2 max-sm:text-xl">{ title }</h2>
-      <SimpleSlider data={data} />
+      {sliderType === "SimpleSlider" && (<SimpleSlider data={data} />)}
+      {sliderType === "ProductSlider" && (<ProductSlider data={data} />)}
     </div>
   );
 };

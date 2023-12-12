@@ -20,7 +20,7 @@
         display: flex;
         width: 300%;
         flex-wrap: nowrap;
-        overflow-x: auto;
+        overflow: scroll;
         z-index: 10;
 
         scroll-behavior: smooth;

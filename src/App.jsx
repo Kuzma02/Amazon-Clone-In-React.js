@@ -17,8 +17,9 @@ function App() {
       <main className="container-main-content">
         <Banner />
         <BoxesContainer />
-        <SliderContainer title="Most wished for in Movies & TV" data={data[0]} />
-        <SliderContainer title="Top Sellers in Baby Products for you" data={data[1]} />
+        <SliderContainer sliderType="SimpleSlider" title="Most wished for in Movies & TV" data={data[0]} />
+        <SliderContainer sliderType="SimpleSlider" title="Top Sellers in Baby Products for you" data={data[1]} />
+        <SliderContainer sliderType="ProductSlider" title="Exciting deals" data={data[2]} />
       </main>
     </>
   );

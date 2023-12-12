@@ -135,5 +135,151 @@
       "image": "src/assets/images/baby carousel 20.jpg"
     }
     
+  ],
+  [
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 1.jpg",
+      "discount": 18,
+      "currentPrice": 449.06,
+      "previousPrice": 549.99,
+      "shortDescription": "Mackie ProFXv3 Series, 16-Channel Pr…"
+
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 2.jpg",
+      "discount": 30,
+      "currentPrice": 69.99,
+      "previousPrice": 99.99,
+      "shortDescription": "Great Northern Popcorn Big Bambino…"
+
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 3.jpg",
+      "discount": 44,
+      "currentPrice": 14.46,
+      "previousPrice": 26.00,
+      "shortDescription": "Buffalo Games - Cinque Terre - 1000 P…"
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 4.jpg",
+      "discount": 46,
+      "currentPrice": 26.99,
+      "previousPrice": 49.99,
+      "shortDescription": "The Last of Us: The Complete First Sea…"
+
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 5.jpg",
+      "discount": 23,
+      "currentPrice": 19.36,
+      "previousPrice": 24.99,
+      "shortDescription": "Taylor Swift - Folklore: Piano/Vocal/G…"
+
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 6.jpg",
+      "discount": 20,
+      "currentPrice": 94.89,
+      "previousPrice": 118.97,
+      "shortDescription": "Dr Infrared Heater HeatStyle 2-Way W…"
+
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 7.jpg",
+      "discount": 29,
+      "currentPrice": 24.99,
+      "previousPrice": 34.99,
+      "shortDescription": "Funko Games: Disney Animated Strate…"
+
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 8.jpg",
+      "discount": 15,
+      "currentPrice": 25.39,
+      "previousPrice": 29.95,
+      "shortDescription": "The Science of Supercars: The Technol…"
+
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 9.jpg",
+      "discount": 7,
+      "currentPrice": 89.87,
+      "previousPrice": 96.89,
+      "shortDescription": "Dr Infrared Heater DR-978 Infrared Sp…"
+
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 10.jpg",
+      "discount": 43,
+      "currentPrice": 50.99,
+      "previousPrice": 90,
+      "shortDescription": "Llewellyn's Sabbat Essentials BOX SET…"
+
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 11.jpg",
+      "discount": 25,
+      "currentPrice": 18.05,
+      "previousPrice": 23.99,
+      "shortDescription": "Melissa & Doug Design-Your-Own Jew…"
+
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 12.jpg",
+      "discount": 14,
+      "currentPrice": 68.71,
+      "previousPrice": 79.97,
+      "shortDescription": "Klein Tools CL600 Electrical Tester, Di…"
+
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 13.jpg",
+      "discount": 30,
+      "currentPrice": 78.00,
+      "previousPrice": 110.99,
+      "shortDescription": "Mackie ProFXv3 Series, 16-Channel Pr…"
+
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 14.jpg",
+      "discount": 41,
+      "currentPrice": 22.36,
+      "previousPrice": 37.99,
+      "shortDescription": "Mackie ProFXv3 Series, 16-Channel Pr…"
+
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 15.jpg",
+      "discount": 12,
+      "currentPrice": 149.99,
+      "previousPrice": 160.99,
+      "shortDescription": "ASUS VA27DQSB 27” Monitor, 1080P…"
+
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 16.jpg",
+      "discount": 34,
+      "currentPrice": 36.69,
+      "previousPrice": 59.99,
+      "shortDescription": "The New Testament in Its World: An In…"
+
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 17.jpg",
+      "discount": 38,
+      "currentPrice": 136.70,
+      "previousPrice": 219.99,
+      "shortDescription": "Farscape: The Complete Series - 25th…"
+
+    },
+    {
+      "image": "src/assets/images/ExcitingDealsSlider img 18.jpg",
+      "discount": 26,
+      "currentPrice": 24.38,
+      "previousPrice": 32.99,
+      "shortDescription": "Wheel of Time Premium Boxed Set II:…"
+
+    }
+    
   ]
 ]
