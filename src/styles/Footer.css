@@ -1,0 +1,40 @@
+.footer-top{
+    background-color: #485769;
+    padding: 10px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-top p{
+    font-size: 14px;
+    color: white;
+}
+
+.footer-navigation{
+    background-color: #232F3E;
+    height: 450px;
+    padding-top: 50px;
+}
+
+.footer-navigation-wrapper{
+    display: flex;
+    justify-content: center;
+    column-gap: 100px;
+}
+
+.footer-navigation div h2{
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+}
+
+.footer-navigation div ul li a{
+    text-decoration: none;
+}
+
+.footer-navigation div ul li{
+    color: #DDD;
+    margin-top: 5px;
+    font-size: 15px;
+}
